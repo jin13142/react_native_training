@@ -1,2 +1,3 @@
 # react_native_training
-my react-native project
+
+react-native project for personal training
